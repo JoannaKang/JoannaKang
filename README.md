@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Sooyeon🙋🏻‍♀️
 
 ---------------------------
 - 🔭 I’m currently working on ...
