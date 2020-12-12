@@ -1,4 +1,4 @@
-### Hi there, I'm Sooyeon🙋🏻‍♀️
+## Hi there, I'm Sooyeon🙋🏻‍♀️
 
 ---------------------------
 - From Seoul, Korea🇰🇷 curruntly based in London, UK🇬🇧
@@ -9,7 +9,7 @@
 - 💌 How to reach me: jfrences11@gmail.com
 - 💁🏻‍♀️ Fun fact: I have several names, Sooyeon (Official name in passport) || Sooeon (Actual name) || Joanna (Christian given name), Choose whatever you fancy!
 
-## I'm always learning but here are a few technologies I have worked with recently:
+## I'm always learning but here are a few technologies I have worked with recently
 <p align="left"> 
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
    <a href="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" target="_blank"> <img src="https://icongr.am/devicon/typescript-original.svg?size=128&color=currentColor" alt="typescript" width="40" height="40"/> </a> 
