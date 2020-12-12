@@ -7,7 +7,7 @@
 - 😎 I'm keen on data visualization with cool graphs
 - 💬 Ask me about Digital marketing & Performance marketing
 - 💌 How to reach me: jfrences11@gmail.com
-- ⚡ Fun fact: I have several names, Sooyeon (Official name in passport) || Sooeon (Actual name) || Joanna (Christian given name), Choose whatever you fancy!
+- 💁🏻‍♀️ Fun fact: I have several names, Sooyeon (Official name in passport) || Sooeon (Actual name) || Joanna (Christian given name), Choose whatever you fancy!
 
 ## I'm always learning but here are a few technologies I have worked with recently:
 <p align="left"> 
