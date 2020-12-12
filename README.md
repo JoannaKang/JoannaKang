@@ -1,6 +1,4 @@
 ## Hi there, I'm Sooyeon🙋🏻‍♀️
-
----------------------------
 - From Seoul, Korea🇰🇷 curruntly based in London, UK🇬🇧
 - 🔭 I’m currently working on 💡news aggregationa app <a href="https://fairpointnews.com/">fairpoint</a> & 🍎grocery list app <a href="https://github.com/JoannaKang/whats-in-my-fridge">what's in my fridge</a>
 - 🌱 I’m currently learning Typescript, Redux, Rust🦀
