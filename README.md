@@ -1,5 +1,5 @@
 ## Hi there, I'm Sooyeon🙋🏻‍♀️
-- From Seoul, Korea🇰🇷  curruntly based in London, UK🇬🇧
+- Full-stack developer from Seoul, Korea🇰🇷  curruntly based in London, UK🇬🇧
 - 🔭 I’m working on 💡 news aggregation app <a href="https://fairpointnews.com/">fairpoint</a> & 🍎 grocery list app <a href="https://github.com/JoannaKang/whats-in-my-fridge">what's in my fridge</a>
 - 🌱 I’m learning Typescript, Redux, Rust🦀
 - 😎 I'm keen on data visualization with cool graphs
