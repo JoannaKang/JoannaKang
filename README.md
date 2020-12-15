@@ -2,7 +2,7 @@
 - Full-stack developer from Seoul, Korea🇰🇷  curruntly based in London, UK🇬🇧
 - 🔭 I’m working on 💡 news aggregation app <a href="https://fairpointnews.com/">fairpoint</a> & 🍎 grocery list app <a href="https://github.com/JoannaKang/whats-in-my-fridge">what's in my fridge</a>
 - 🌱 I’m learning Typescript, Redux, Rust🦀
-- 😎 I'm keen on data visualization with cool graphs
+- 😎 I'm keen on data visualization with cool graphs, machine learning technologies make life easier
 - 💬 Ask me about Digital marketing & Performance marketing
 - 💌 How to reach me: jfrences11@gmail.com
 - 📄 Read about me from blog (in Korean): https://brunch.co.kr/@jfrences
