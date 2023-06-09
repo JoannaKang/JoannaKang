@@ -24,5 +24,3 @@
      <a href="https://www.w3.org/html/" target="_blank"> <img src="https://icongr.am/devicon/html5-original-wordmark.svg?size=128&color=currentColor" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://icongr.am/devicon/css3-original-wordmark.svg?size=128&color=currentColor" alt="css3" width="40" height="40"/> </a> 
 </p>
-
-[![Joanna's github stats](https://github-readme-stats.vercel.app/api?username=JoannaKang)](https://github.com/JoannaKang/github-readme-stats)
